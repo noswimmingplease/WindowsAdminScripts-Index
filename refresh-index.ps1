@@ -46,7 +46,7 @@ function Get-RepoMetadata {
 
     $url = git -C $RepoPath config --get remote.origin.url 2>$null
     if ([string]::IsNullOrWhiteSpace($url)) {
-        $url = "https://github.com/Ci303/$RepoName"
+        $url = "https://github.com/noswimmingplease/$RepoName"
     }
 
     $displayUrl = $url

@@ -4,9 +4,9 @@ Central index for related utility repositories.
 
 | Repository | URL | Commit | Date | Commit message |
 |---|---|---:|---|---|
-| [Find-UnresolvedTrayIcons](https://github.com/Ci303/Find-UnresolvedTrayIcons) | https://github.com/Ci303/Find-UnresolvedTrayIcons | ``ab7ec1b`` | 2026-06-15 | Add repository policy for PR-based contribution flow |
-| [Invoke-TrayIconCleanup](https://github.com/Ci303/Invoke-TrayIconCleanup) | https://github.com/Ci303/Invoke-TrayIconCleanup | ``349e57d`` | 2026-06-15 | Add repository policy for PR-based contribution flow |
-| [Invoke-WindowsCleanup](https://github.com/Ci303/Invoke-WindowsCleanup) | https://github.com/Ci303/Invoke-WindowsCleanup | ``8e19748`` | 2026-06-15 | Add repository policy for PR-based contribution flow |
+| [Find-UnresolvedTrayIcons](https://github.com/noswimmingplease/Find-UnresolvedTrayIcons) | https://github.com/noswimmingplease/Find-UnresolvedTrayIcons | ``ab7ec1b`` | 2026-06-15 | Add repository policy for PR-based contribution flow |
+| [Invoke-TrayIconCleanup](https://github.com/noswimmingplease/Invoke-TrayIconCleanup) | https://github.com/noswimmingplease/Invoke-TrayIconCleanup | ``349e57d`` | 2026-06-15 | Add repository policy for PR-based contribution flow |
+| [Invoke-WindowsCleanup](https://github.com/noswimmingplease/Invoke-WindowsCleanup) | https://github.com/noswimmingplease/Invoke-WindowsCleanup | ``8e19748`` | 2026-06-15 | Add repository policy for PR-based contribution flow |
 
 ## Maintenance helper
 
